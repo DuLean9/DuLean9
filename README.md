@@ -3,7 +3,7 @@
 ---
 
 ### 💫 Sobre mim
-Sou um desenvolvedor Full Stack.  
+Sou um desenvolvedor apaixonado por tecnologia e por criar soluções que fazem a diferença.  
 Sempre aprendendo, experimentando e buscando evoluir em cada linha de código.
 
 ---
@@ -17,8 +17,8 @@ Sempre aprendendo, experimentando e buscando evoluir em cada linha de código.
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuLean9&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuLean9&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuLean9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="Estatísticas do GitHub de DuLean9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuLean9&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Linguagens mais usadas"/>
 </p>
 
 ---
