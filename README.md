@@ -32,11 +32,8 @@ Sempre aprendendo, experimentando e buscando evoluir em cada linha de código.
 
 ### 🌐 Onde me encontrar
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/duilio-sant-ana-337639320/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/SEU-USUARIO" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="mailto:duilioleandro9@outlook.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoutlook/microsoftoutlook-plain.svg" width="40" height="40" alt="Outlook logo" />
