@@ -3,7 +3,7 @@
 ---
 
 ### 💫 Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia e por criar soluções que fazem a diferença.  
+Sou um desenvolvedor Full Stack.  
 Sempre aprendendo, experimentando e buscando evoluir em cada linha de código.
 
 ---
@@ -38,8 +38,8 @@ Sempre aprendendo, experimentando e buscando evoluir em cada linha de código.
   <a href="https://www.instagram.com/SEU-USUARIO" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="duilioleandro9@outlook.com">
+    <img src="https://skillicons.dev/icons?i=outlook" />
   </a>
 </p>
 
