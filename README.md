@@ -36,7 +36,7 @@ Sempre aprendendo, experimentando e buscando evoluir em cada linha de código.
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:duilioleandro9@outlook.com">
-    <<img src="https://skillicons.dev/icons?i=gmail" title="Outlook" />
+    <img src="https://skillicons.dev/icons?i=gmail" title="Outlook" />
   </a>
 </p>
 
