@@ -10,7 +10,7 @@ Sempre aprendendo, experimentando e buscando evoluir em cada linha de código.
 
 ### 🚀 Tecnologias que utilizo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,git,github,vscode,postgres,prisma,docker" />
 </p>
 
 ---
