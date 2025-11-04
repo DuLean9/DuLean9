@@ -36,7 +36,7 @@ Sempre aprendendo, experimentando e buscando evoluir em cada linha de código.
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:duilioleandro9@outlook.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoutlook/microsoftoutlook-plain.svg" width="40" height="40" alt="Outlook logo" />
+    <<img src="https://skillicons.dev/icons?i=gmail" title="Outlook" />
   </a>
 </p>
 
